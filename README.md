@@ -5,8 +5,7 @@ Hey there 👋
 ![woah-yay](https://user-images.githubusercontent.com/92617405/235195655-04ae94de-6443-450e-9d80-06afb5cf38b5.gif)
 
 I’m Nirmal  
-Master’s Student in Mechanical Engineering 
-University of Southern California (USC)
+Master’s Student in Mechanical Engineering , University of Southern California (USC)
 
 Right now I’m focused on:
 
