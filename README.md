@@ -5,45 +5,9 @@ Hey there 👋
 ![woah-yay](https://user-images.githubusercontent.com/92617405/235195655-04ae94de-6443-450e-9d80-06afb5cf38b5.gif)
 
 I’m Nirmal  
-Master’s Student in Mechanical Engineering , University of Southern California (USC)
+Master’s at University of Southern California (USC)
 
-Right now I’m focused on:
-
-- 🤖 Industrial robotics and automation  
-- 🗺 Motion and path planning algorithms  
-- 📈 Trajectory optimization under constraints  
-- 🏭 Building reliable robots for industrial applications  
-
-I enjoy turning simulation-driven designs into practical hardware systems that work in real environments.My broader work includes thermal management of high-power electronics, hydrogen fuel-cell and battery hybrid optimization, and lattice structures using topology optimization tools.
-
-PAST WORK :
-
-- 🔥 Thermal management using composite PCM cold plates and advanced cooling strategies  
-- ⚡ Hydrogen fuel cell–battery hybrid system modeling and optimal power split control  
-- 🧱 Lattice structures and lightweight topology-optimized components  
-- 🔌 1 kW wireless power transfer systems with foreign object detection for EV charging  
-- 🛰 Embedded systems and CubeSat payload prototyping  
-
-PROFESSIONAL EXPERIENCE:
-
-DST PURSE (SRMIST) (Research Assistant)
-
-• Reduced cold plate weight and volume by 25% while improving cooling efficiency  
-• Modeled hydrogen fuel cell battery hybrid systems under WLTC cycles  
-• Developed 1 kW wireless power transfer prototype systems  
-• Presented thermal management research at ECCE Asia 2025  
-
-JSW Steel (Assistant Manager)
-
-• Implemented industrial automation in large-scale hot strip mills (Siemens PLC systems)  
-• Optimized microstructure and laminar cooling for high-carbon steels  
-• Improved output by 12% and reduced downtime by 18% using Lean and preventive analytics  
-
-Formula Electric (SAE) (Vehicle Engineer) 
-
-• Designed and fabricated FSAE roll cage (Aluminum 6061)  
-• Developed steering and drivetrain systems integrating PMSM and gearbox  
-• Secured 4th place overall  
+Someone who is deeply obsessed with robots, machine learning, and understanding the intricate questions behind how intelligent machines work.
 
  Languages & Tools
 
